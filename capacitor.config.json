@@ -1,0 +1,6 @@
+{
+  "appId": "com.blackburncapital.smartfinance",
+  "appName": "Smart Finance",
+  "webDir": "www",
+  "android": { "backgroundColor": "#0E6B5A" }
+}
